@@ -1,4 +1,4 @@
-What is this? : a few steps to shopping through the product details page (PDP)
+What is this? : a few steps to shopping through the product detail page (PDP)
 
 Description : relating to the questions given, the following method or this is a solution to shop on the amazon web with the automation test. 
 
@@ -42,3 +42,4 @@ Quantity as 2.
 Running the tests 
 Pre condition :
 1. For the login and logout scenario, user already registered account in the amazon website. Then, you can get this file for running these test case with download or export A-LoginLogout filename : https://github.com/thessasilviana/gojektest/blob/master/A-LoginLogout.java
+2. Before login, you can get choose and order headphones with product detail page step on this B-headphones.java filename https://github.com/thessasilviana/gojektest/blob/master/B-headphones.java
