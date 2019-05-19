@@ -41,4 +41,4 @@ Quantity as 2.
 
 Running the tests 
 Pre condition :
-1. For the login and logout scenario, user already registered account in the amazon website. Then, you can get this file for running these test case with download or export A-LoginLogout filename : A-LoginLogout.java
+1. For the login and logout scenario, user already registered account in the amazon website. Then, you can get this file for running these test case with download or export A-LoginLogout filename : https://github.com/thessasilviana/gojektest/blob/master/A-LoginLogout.java
