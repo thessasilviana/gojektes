@@ -44,3 +44,5 @@ Pre condition :
 1. For the login and logout scenario, user already registered account in the amazon website. Then, you can get this file for running these test case with download or export A-LoginLogout filename : https://github.com/thessasilviana/gojektest/blob/master/A-LoginLogout.java
 2. Before login, you can get choose and order headphones with product detail page step on this B-headphones.java filename https://github.com/thessasilviana/gojektest/blob/master/B-headphones.java
 3. And also you can order and add to cart macbook pro quantity as 2 before login with https://github.com/thessasilviana/gojektest/blob/master/C-macbookpro2.java
+4. For the next, you can view all products after you added to cart and remove the earlier added headphones. on this https://github.com/thessasilviana/gojektest/blob/master/D-cart.java file
+5. 
