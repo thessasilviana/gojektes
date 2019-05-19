@@ -46,3 +46,8 @@ Pre condition :
 3. And also you can order and add to cart macbook pro quantity as 2 before login with https://github.com/thessasilviana/gojektest/blob/master/C-macbookpro2.java
 4. For the next, you can view all products after you added to cart and remove the earlier added headphones. on this https://github.com/thessasilviana/gojektest/blob/master/D-cart.java file
 5. Reduce the quantity of the macbook pro product to 1 and proceed to checkout with https://github.com/thessasilviana/gojektest/blob/master/E-checkout.java
+6. In the last, go back to home screen and used search bar to search for multiple different products with https://github.com/thessasilviana/gojektest/blob/master/F-searchbar.java
+
+Acknowledgments :
+1. https://www.seleniumhq.org/
+2. https://docs.katalon.com/katalon-store/docs/publisher/debug-platform-plugin.html#strongprerequisitesstrong
