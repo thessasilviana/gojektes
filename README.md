@@ -40,4 +40,5 @@ Quantity as 2.
 7. Implement a reporting framework of your choice to display the test results.
 
 Running the tests 
-
+Pre condition :
+1. For the login and logout scenario, user already registered account in the amazon website. Then, you can get this file for running these test case with download or export A-LoginLogout filename.
